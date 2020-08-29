@@ -6,7 +6,7 @@
 
 ### Find Me here
 
-#### [![twitter](https://icons8.com/icon/5MQ0gPAYYx7a/twitter)][1][![linkedin](images/icons8-linkedin-48.png)][2]
+[![twitter](https://img.icons8.com/fluent/48/000000/twitter.png)][1] [![linkedin](https://img.icons8.com/fluent/48/000000/linkedin.png)][2]
 
 ### Check my 360-degree coder profile on Codersrank [![codersrank](images/codersrank.svg)][3]
 
