@@ -13,9 +13,7 @@
 [1]: https://twitter.com/saurabhbharti_
 [2]: https://www.linkedin.com/in/saurabh-bharti-2ba3018a/
 
-### Some one Said:
-
-:rocket:
+### Some one Said: :rocket:
 
 > Yesterday I was clever,So I wanted to change
 > the world.
