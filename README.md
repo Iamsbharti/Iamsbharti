@@ -5,7 +5,7 @@
 - 💬 Ask me about web development,cybersecurity and books
 - :notebook_with_decorative_cover: Find What I [Read][3]
 
-### Find Me here
+### I am here
 
 [![twitter](https://img.icons8.com/fluent/48/000000/twitter.png)][1] [![linkedin](https://img.icons8.com/fluent/48/000000/linkedin.png)][2]
 
