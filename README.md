@@ -21,8 +21,8 @@
 > the world.
 > Today I am wise so I am changing myself
 
-```
-while (!success){
+```javascript
+while (!success) {
   return "keep Trying";
 }
 ```
