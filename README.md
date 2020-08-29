@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on twitter clone
 - 🌱 I’m currently learning Algorithms
 - 💬 Ask me about web development,cybersecurity and books
+- :notebook_with_decorative_cover: Find What I [Read][3]
 
 ### Find Me here
 
@@ -12,6 +13,7 @@
 
 [1]: https://twitter.com/saurabhbharti_
 [2]: https://www.linkedin.com/in/saurabh-bharti-2ba3018a/
+[3]: https://www.goodreads.com/user/show/96913282-saurabh-bharti
 
 ### Some one Said: :rocket:
 
