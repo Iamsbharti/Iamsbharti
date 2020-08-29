@@ -6,7 +6,7 @@
 
 ### Find Me here
 
-#### [![twitter](Iamsbharti/images/icons8-twitter-48.png)][1][![linkedin](images/icons8-linkedin-48.png)][2]
+#### [![twitter](https://icons8.com/icon/5MQ0gPAYYx7a/twitter)][1][![linkedin](images/icons8-linkedin-48.png)][2]
 
 ### Check my 360-degree coder profile on Codersrank [![codersrank](images/codersrank.svg)][3]
 
