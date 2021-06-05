@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on a e-comm app.
 - 🌱 I’m currently learning Algorithms
 - 💬 Ask me about web development,cybersecurity and books
 - :notebook_with_decorative_cover: Find What I [Read][3]
