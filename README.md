@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [e-comm](http://merabazaar.xyz/) app.
+- :hammer: I’m currently building a [e-comm](http://merabazaar.xyz/) app.
 - 🌱 I’m currently learning Algorithms
 - 💬 Ask me about Web development,Enterprise app developement,ML,cybersecurity and books
 - :notebook_with_decorative_cover: Find What I [Read][3]
