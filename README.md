@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-- :hammer: I’m currently building a [e-comm](http://merabazaar.xyz/) app.
-- 🌱 I’m currently learning Algorithms
-- 💬 Ask me about Web development,Enterprise app developement,ML,cybersecurity and books
+:hammer: I am Saurabh.
+- 🌱 Currently learning by building projects in **AI/ML**, with a focus on:
+- 🧠 Machine Learning fundamentals (classification, regression, clustering)
+- 🤖 Practical AI projects (RAG, embeddings, LLM apps)
+- 🔍 Information retrieval (vector search, k-NN, semantic search)
+- ⚡ Applied experiments with LangChain, OpenAI API, and Python
 - :notebook_with_decorative_cover: Find What I [Read][3]
+  
+🛠️ What I believe:
+> The best way to learn AI is **by doing** — building small, meaningful projects.
 
 ### I am here
 
