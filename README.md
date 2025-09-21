@@ -6,6 +6,7 @@
 - 🤖 Practical AI projects (RAG, embeddings, LLM apps)
 - 🔍 Information retrieval (vector search, k-NN, semantic search)
 - ⚡ Applied experiments with LangChain, OpenAI API, and Python
+- 💬 Ask me about Full Stack Development, ML, cybersecurity and books
 - :notebook_with_decorative_cover: Find What I [Read][3]
   
 🛠️ What I believe:
